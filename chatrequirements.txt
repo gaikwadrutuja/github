@@ -3,3 +3,6 @@ features
 send option
 emoji
 typing option
+
+Dark mode
+video calls
